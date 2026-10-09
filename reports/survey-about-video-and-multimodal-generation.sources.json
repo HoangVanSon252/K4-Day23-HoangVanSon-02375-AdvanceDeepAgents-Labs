@@ -1,0 +1,26 @@
+[
+  {
+    "n": 1,
+    "id": "2501.00003",
+    "url": "https://arxiv.org/abs/2501.00003",
+    "title": "Foundations of Survey About Video And Multimodal Generation",
+    "date": "2025-01-02",
+    "source": "arxiv"
+  },
+  {
+    "n": 2,
+    "id": "2502.11113",
+    "url": "https://huggingface.co/papers/2502.11113",
+    "title": "Advances in Survey About Video And Multimodal Generation",
+    "date": "2025-02-15",
+    "source": "hf-daily"
+  },
+  {
+    "n": 3,
+    "id": "web-3",
+    "url": "https://example.org/review-3",
+    "title": "Industry Review: Survey About Video And Multimodal Generation",
+    "date": "2025-03-01",
+    "source": "web"
+  }
+]

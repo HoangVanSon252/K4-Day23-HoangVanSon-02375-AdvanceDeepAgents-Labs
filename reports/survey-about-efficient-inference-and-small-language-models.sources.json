@@ -1,0 +1,26 @@
+[
+  {
+    "n": 1,
+    "id": "2501.00004",
+    "url": "https://arxiv.org/abs/2501.00004",
+    "title": "Foundations of Survey About Efficient Inference And Small Language Models",
+    "date": "2025-01-02",
+    "source": "arxiv"
+  },
+  {
+    "n": 2,
+    "id": "2502.11114",
+    "url": "https://huggingface.co/papers/2502.11114",
+    "title": "Advances in Survey About Efficient Inference And Small Language Models",
+    "date": "2025-02-15",
+    "source": "hf-daily"
+  },
+  {
+    "n": 3,
+    "id": "web-4",
+    "url": "https://example.org/review-4",
+    "title": "Industry Review: Survey About Efficient Inference And Small Language Models",
+    "date": "2025-03-01",
+    "source": "web"
+  }
+]

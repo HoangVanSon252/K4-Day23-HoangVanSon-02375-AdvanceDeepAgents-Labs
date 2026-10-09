@@ -1,0 +1,12 @@
+{
+  "topic": "survey about efficient inference and small language models",
+  "subagent_calls": 5,
+  "source_families": [
+    "arxiv",
+    "hf-daily",
+    "web"
+  ],
+  "elapsed_seconds": 120.5,
+  "model_name": "gemini-3.5-flash",
+  "n_sources": 3
+}
